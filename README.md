@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, My name is Salma Hossam</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/ width="35">
+  <b>Hi, My name is Salma Hossam</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/ width="20">
 </h1>
 
 <p align="center" font-size="80">
