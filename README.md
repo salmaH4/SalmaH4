@@ -1,6 +1,7 @@
 <h1 align="center">
   <b>Hi, My name is Salma Hossam</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/ width="20" height="20">
 </h1>
+<img align="left" src="https://github.com/salmaH4/SalmaH4/assets/110805003/7bc7341b-a548-4e83-99c8-a947814cae8d" width=100px>
 
 <p align="center" font-size="80">
   <a href="https://git.io/typing-svg">
@@ -9,10 +10,12 @@
 </p>
 
 
+
+
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img align="right" src="https://github.com/salmaH4/SalmaH4/assets/110805003/c52f3b49-0746-497f-8069-2c28686862c9" width=300px>
 
 <p>
   <ul>
@@ -20,6 +23,9 @@
     <li>Now, I'm currently interested in Data Analytics and Tech</li>
     <li>Highly skilled in:
         <ul>
+          <li>Statistics</li>
+          <li>Linear Algebra</li>
+          <li>Calculus</li>
           <li>SQL</li>
           <li>Python</li>
           <li>Power BI</li>
