@@ -10,8 +10,6 @@
 </p>
 
 
-
-
 <br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
@@ -23,15 +21,15 @@
     <li>Now, I'm currently interested in Data Analytics and Tech</li>
     <li>Highly skilled in:
         <ul>
+          <li>SQL</li>
+          <li>Power BI</li>
+          <li>Excel</li>
+          <li>Python</li>
           <li>Statistics</li>
           <li>Linear Algebra</li>
           <li>Calculus</li>
-          <li>SQL</li>
-          <li>Python</li>
-          <li>Power BI</li>
           <li>Html</li>
           <li>CSS</li>
-          <li>Excel</li>
         </ul>
     </li>
   </ul>
