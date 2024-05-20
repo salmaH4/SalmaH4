@@ -17,8 +17,7 @@
 
 <p>
   <ul>
-    <li>I'm a graduate of Ain-Shams University, specialized in Mathematics and Education</li>
-    <li>Now, I'm currently interested in Data Analytics and Tech</li>
+    <li>I'm a graduate of Ain-Shams University, specialized in Mathematics and Statistics</li>
     <li>Highly skilled in:
         <ul>
           <li>SQL</li>
