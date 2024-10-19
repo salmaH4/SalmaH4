@@ -17,16 +17,15 @@
 
 <p>
   <ul>
-    <li>I'm a graduate of Ain-Shams University, specialized in Mathematics and Statistics</li>
+    <li>I'm a Microsoft Certified PowerBI Data Analyst, graduated from Ain-Shams Universitywith a Baechelor's degree in Science, Specializing in Mathematics. </li>
     <li>Highly skilled in:
         <ul>
-          <li>SQL</li>
+          <li>SQL Server</li>
           <li>Power BI</li>
+          <li>MSBI: SSIS</li>
+          <li>Python: Numpy, Pandas, Matplotlib, Seaborn</li>
           <li>Excel</li>
-          <li>Python</li>
           <li>Statistics</li>
-          <li>Linear Algebra</li>
-          <li>Calculus</li>
           <li>Html</li>
           <li>CSS</li>
         </ul>
