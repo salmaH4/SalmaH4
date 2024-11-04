@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, My name is Salma Hossam</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/ width="20" height="20">
+  <b>Hi, My name is Salma Hossam-eldin</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/ width="20" height="20">
 </h1>
 <img align="left" src="https://github.com/salmaH4/SalmaH4/assets/110805003/7bc7341b-a548-4e83-99c8-a947814cae8d" width=100px>
 
@@ -20,14 +20,13 @@
     <li>I'm a Microsoft Certified PowerBI Data Analyst, graduated from Ain-Shams Universitywith a Baechelor's degree in Science, Specializing in Mathematics. </li>
     <li>Highly skilled in:
         <ul>
-          <li>SQL Server</li>
-          <li>Power BI</li>
+          <li>Microsoft SQL Server</li>
+          <li>certified Power BI</li>
           <li>MSBI: SSIS</li>
-          <li>Python: Numpy, Pandas, Matplotlib, Seaborn</li>
+          <li>Python: NumPy, Pandas, Matplotlib, Seaborn, SciPy</li>
+          <li>Statistics hypothesis & AB-Testing</li>
+          <li>Html and CSS</li>
           <li>Excel</li>
-          <li>Statistics</li>
-          <li>Html</li>
-          <li>CSS</li>
         </ul>
     </li>
   </ul>
