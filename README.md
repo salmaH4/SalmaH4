@@ -5,35 +5,13 @@
 
 <p align="center" font-size="80">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=9046FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Salma's+portfolio;I'm+a+Data+Analyst+%26+Power+BI+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=9046FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Salma's+portfolio" alt="Typing SVG" />
   </a>
 </p>
 
 
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<img align="right" src="https://github.com/salmaH4/SalmaH4/assets/110805003/c52f3b49-0746-497f-8069-2c28686862c9" width=300px>
-
-<p>
-  <ul>
-    <li>I'm a Microsoft Certified PowerBI Data Analyst, graduated from Ain-Shams Universitywith a Baechelor's degree in Science, Specializing in Mathematics. </li>
-    <li>Highly skilled in:
-        <ul>
-          <li>Microsoft SQL Server</li>
-          <li>certified Power BI</li>
-          <li>MSBI: SSIS</li>
-          <li>Python: NumPy, Pandas, Matplotlib, Seaborn, SciPy</li>
-          <li>Statistics hypothesis & AB-Testing</li>
-          <li>Html and CSS</li>
-          <li>Excel</li>
-        </ul>
-    </li>
-  </ul>
-</p>
-
-<br>
-<hr>
 
 ## 🙋‍♀️ Let's Connect
 
